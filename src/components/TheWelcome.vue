@@ -59,5 +59,7 @@ const items = ref([
 </script>
 
 <template>
-  <div> hola </div>
+
+  <Button label="Guardar" class="text-base px-4 py-2 w-50 h-full" > </Button>
+
 </template>
